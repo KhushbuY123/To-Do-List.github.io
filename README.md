@@ -5,4 +5,4 @@
 </span>
 
 **Live Project:
-https://khushbuy123.github.io/todolist.github.io/
+https://khushbuy123.github.io/To-Do-List.github.io/
